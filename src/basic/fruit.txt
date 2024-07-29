@@ -5,3 +5,5 @@ grape
 melon
 stawberry
 orange
+mango
+pineapple
